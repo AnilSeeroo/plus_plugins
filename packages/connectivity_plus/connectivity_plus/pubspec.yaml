@@ -24,8 +24,7 @@ flutter:
         pluginClass: ConnectivityPlusPlugin
         sharedDarwinSource: true
 
-      linux:
-        dartPluginClass: ConnectivityPlusLinuxPlugin
+
       macos:
         pluginClass: ConnectivityPlusPlugin
         sharedDarwinSource: true
