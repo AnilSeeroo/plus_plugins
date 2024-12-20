@@ -25,14 +25,14 @@ flutter:
         sharedDarwinSource: true
 
 
-      macos:
-        pluginClass: ConnectivityPlusPlugin
-        sharedDarwinSource: true
-      web:
-        pluginClass: ConnectivityPlusWebPlugin
-        fileName: src/connectivity_plus_web.dart
-      windows:
-        pluginClass: ConnectivityPlusWindowsPlugin
+#      macos:
+#        pluginClass: ConnectivityPlusPlugin
+#        sharedDarwinSource: true
+#      web:
+#        pluginClass: ConnectivityPlusWebPlugin
+#        fileName: src/connectivity_plus_web.dart
+#      windows:
+#        pluginClass: ConnectivityPlusWindowsPlugin
 
 dependencies:
   flutter:
